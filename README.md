@@ -1,4 +1,4 @@
-## Data_Analysis_Dashboard_Excel
+# Data_Analysis_Dashboard_Excel
 This project focuses on creating an interactive Data Analytics dashboard using Excel. It aims to provide insights into business data through dynamic visualizations, enabling users to analyze and interpret data effectively. The dashboard utilizes slicers to allow users to filter and view data in real-time, enhancing decision-making processes.
 
 
@@ -14,7 +14,7 @@ To provide insights through data analytics and visualization.
 
 To create a valuable addition to resumes by showcasing practical Excel skills.
 
-### Sample Questions
+## Sample Questions
 
 - **What are the key trends in sales over the last quarter?**
   - Helps in understanding overall performance and patterns.
@@ -37,7 +37,7 @@ To create a valuable addition to resumes by showcasing practical Excel skills.
 - **Are there any significant changes in user behavior?**
   - Helps in understanding shifts in consumer preferences and habits.
 
-### Sample Insights
+## Sample Insights
 
 - **Sales have increased by 20% compared to the previous quarter.**
   - Indicates growth in revenue and potential market expansion.
@@ -63,5 +63,5 @@ To create a valuable addition to resumes by showcasing practical Excel skills.
 
 
 
-### Findings and Conclusion
+## Findings and Conclusion
 The project successfully demonstrates how to create a user-friendly interactive dashboard that can adapt to various data inputs seamlessly. By engaging with dynamic charts, users can efficiently explore data trends and insights. Overall, this project reinforces the importance of data visualization in business analytics and equips users with essential skills to tackle real-world data challenges using Excel.
