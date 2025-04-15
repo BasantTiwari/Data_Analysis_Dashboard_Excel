@@ -62,7 +62,8 @@ To create a valuable addition to resumes by showcasing practical Excel skills.
 - **A noticeable drop in user engagement over the last month suggests the need for content refreshment.**
   - Signals the importance of evolving content to maintain user interest.
 
-
+## Dashboard screenhsot
+https://github.com/BasantTiwari/Data_Analysis_Dashboard_Excel/blob/main/Dashboard_Screenshot.PNG
 
 
 ## Findings and Conclusion
